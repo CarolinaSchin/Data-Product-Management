@@ -1,5 +1,5 @@
 # **Data Product Management**  
-**Habilidades**, **Conceitos** e **produtos desenvolvidos**
+**Habilidades**, **Conceitos** e **Produtos Desenvolvidos**
 
 Quando se torna um especialista em **gerenciamento de produtos em dados**, o product manager enriquece suas habilidades de gestão e desenvolvimento de produtos, pois passa a ser capaz de usar os **dados**, através de **análise** e **manipulação**, para um processo mais estratégico, com **informações** e **insights** que colocam seu produto em **vantagem competitiva**.
 
