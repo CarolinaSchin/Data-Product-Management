@@ -21,4 +21,4 @@ Para isso, como Data Product Manager, utilizei de dados para identificar problem
 
 Nessa tarefa, foi fundamental que, além dos conhecimentos gerais, tenha desenvolvido um bom entendimento dos princípios de coleta e análise de dados.
 
-O Pitck Deck desenvolido para o Flyber foi uma amostra de como trabalhei para integrar esses conhecimentos.
+O [Pitch Deck](https://github.com/CarolinaSchin/Data-Product-Management/blob/main/Flyber%20-%20Produto%20Final%20-%20Pitch%20Deck.ppsx) para o Flyber foi uma amostra de como trabalhei para integrar esses conhecimentos.
